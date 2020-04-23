@@ -1,0 +1,2 @@
+# singletons
+Examples of singletons
